@@ -1,2 +1,7 @@
 # Random
-the game "Random" made for compsci
+The game "Random" made for compsci
+
+## Prerequisites
+Pygame
+
+### To install pygame
