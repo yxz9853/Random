@@ -10,4 +10,8 @@ Open terminal and enter "python -m pip install pygame"
 Open terminal and enter "py -m ensurepip --upgrade"
 
 ## To run the game
+```
+Code > Download zip
+Unzip file
 Run "main.py"
+```
