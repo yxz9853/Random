@@ -11,7 +11,7 @@ Open terminal and enter "py -m ensurepip --upgrade"
 
 ## To run the game
 ```
-Code > Download zip
+Code > Download zip **or** download from releases
 Unzip file
 Run "main.py"
 ```
